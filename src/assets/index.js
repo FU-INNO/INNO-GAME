@@ -41,16 +41,34 @@ import sound_vowel_wae from "./mp3/Alphabet/wae.mp3";
 
 import sound_vowel_wi from "./mp3/Alphabet/wi.mp3";
 import sound_vowel_ưi from "./mp3/Alphabet/ưi.mp3";
+import sound_con_k_g from "./mp3/Alphabet/k_g.mp3";
+import sound_con_n from "./mp3/Alphabet/n.mp3";
+import sound_con_t_d from "./mp3/Alphabet/t_d.mp3";
+import sound_con_r_l from "./mp3/Alphabet/r_l.mp3";
+import sound_con_m from "./mp3/Alphabet/m.mp3";
+import sound_con_p_b from "./mp3/Alphabet/p_b.mp3";
+import sound_con_s_t from "./mp3/Alphabet/s_sh.mp3";
+import sound_con_ng from "./mp3/Alphabet/ng.mp3";
+import sound_con_j_t from "./mp3/Alphabet/ch_j.mp3";
+import sound_con_j2_t from "./mp3/Alphabet/ch.mp3";
+
+import sound_con_k_k from "./mp3/Alphabet/kk.mp3";
+import sound_con_t_t from "./mp3/Alphabet/th.mp3";
+import sound_con_p_p from "./mp3/Alphabet/ph.mp3";
+import sound_con_h_t from "./mp3/Alphabet/h.mp3";
 
 export {
+    sound_con_h_t,
     sound_vowel_a, sound_vowel_ya, sound_vowel_o, sound_vowel_yơ,
     sound_vowel_ơ, sound_vowel_yô, sound_vowel_u, sound_vowel_yu,
     sound_vowel_ư, sound_vowel_i, sound_vowel_e, sound_vowel_ye,
     sound_vowel_yae, sound_vowel_wa, sound_vowel_we,
     sound_vowel_wae, sound_vowel_wi,
-    sound_vowel_ưi,
+    sound_vowel_ưi, sound_con_j2_t,
     logoWinterCanvas, logoWinter,
     logoSp, paperMp3, logoSum, logoFall, logoFall_full, logoSp_full, logoSumCanvas, logoSpringCanvas, logoFallCanvas,
-    cursor, alphabet, pinkBg, logoSum_full, springImg, summerImg, fallImg, winterImg, blossomTree
+    cursor, alphabet, pinkBg, logoSum_full, springImg, summerImg, fallImg, winterImg, blossomTree,
+    sound_con_n, sound_con_t_d, sound_con_r_l, sound_con_m, sound_con_p_b, sound_con_s_t,
+    sound_con_ng, sound_con_j_t, sound_con_k_k, sound_con_t_t, sound_con_p_p, sound_con_k_g
     // sound_vowel_ê,
 }
